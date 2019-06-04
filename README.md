@@ -35,7 +35,7 @@ Modificado por:
 
 ### 2.3 Mapeamento do processo:
 
-   <img src= https://analytics-academico-prod.notebook.us-east-1.sagemaker.aws/files/98_images/Processo.png align="center">
+   <img src= https://www.dropbox.com/s/72myv3uyw6qabay/Processo.png?dl=0 align="center">
     
 #### Descrição das atividades
     
@@ -54,12 +54,12 @@ Modificado por:
 
 ## 3. Camadas de dados
 
-<img src="https://analytics-academico-prod.notebook.us-east-1.sagemaker.aws/files/98_images/Layers.png" align="center">
+<img src="https://www.dropbox.com/s/uja1cfedm3af6wu/Layers.png?dl=0" align="center">
 
 ## 4. Transformação
 
-<img src="https://analytics-academico-prod.notebook.us-east-1.sagemaker.aws/files/98_images/ETL.png" align="center">
+<img src="https://www.dropbox.com/s/ui7oua0k3qm7jr7/ETL.png?dl=0" align="center">
 
 ## 5. Diagrama da Infraestrutura (To Be)
 
-<img src="https://analytics-academico-prod.notebook.us-east-1.sagemaker.aws/files/98_images/Arquitetura.png" align="center">
+<img src="https://www.dropbox.com/s/4zlb699d9ny17k0/Arquitetura.png?dl=0" align="center">
